@@ -1,2 +1,10 @@
 # EyePair
-Detecting eyes in pairs using OpenCV 
+Detecting eyes pairs in using [OpenCV](http://opencv.org/).
+
+## Requirements
+
+- [Anaconda / Python 3.6](https://www.anaconda.com/download)
+- [OpenCV 3.4](http://opencv.org/)
+
+## Tests
+![eye_pair](https://github.com/zekeriyafince/EyePair/blob/master/TestOutputPicture/Eye_Pair.png "Eye Pair")
