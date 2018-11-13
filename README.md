@@ -1,3 +1,5 @@
+[![Licence](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/zekeriyafince/EyePair/blob/master/LICENSE)
+
 # EyePair
 Detecting eyes pairs in using [OpenCV](http://opencv.org/).
 
