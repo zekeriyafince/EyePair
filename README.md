@@ -9,4 +9,4 @@ Detecting eyes pairs in using [OpenCV](http://opencv.org/).
 - [OpenCV 3.4](http://opencv.org/)
 
 ## Tests
-![eye_pair](https://github.com/zekeriyafince/EyePair/blob/master/TestOutputPicture/Eye_Pair.png "Eye Pair")
+![eye_pair](https://github.com/zekeriyafince/EyePair/blob/master/TestOutputPicture/EyePairTest.gif "Eye Pair Test")
